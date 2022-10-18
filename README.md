@@ -1,5 +1,5 @@
 # InfernoMedalPlate
-3d and burner designs for Inferno medal plates
+3d and burner designs for [Phoenixville Inferno MTB Team](https://www.pxvmtb.org/) medal plates
 
 
 ## XTool D1
