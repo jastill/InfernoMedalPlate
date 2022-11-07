@@ -11,3 +11,4 @@ The lqx files are for use with the laserburner app [laserbunrer](https://www.las
 
 Blender was used to create the design files for the clip.
 
+![Plate](images/plate001.jpg)
